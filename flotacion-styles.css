@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #60E7FF;
+    color: #041815;
+    width: 80%;
+    min-width: 50rem;
+    margin: 0 auto;
+}
+
+.title {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1rem;
+    color: #215A66;
+    margin: 0.3rem;
+}
+
+.quote-box {
+    width: 10rem;
+    height: 10rem;
+    background: #4AB4CC;
+    border: 3px dashed #215A66;
+    padding: 0 0.5rem;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.quote-box--first-letter {
+    font-size: 3rem;
+    color: #215A66;
+    float: left;
+}
+
+.quote-box p {
+    font-style: italic;
+    font-size: 0.9rem;
+    padding-top: 0.5rem;
+    margin-top: 0;
+}
