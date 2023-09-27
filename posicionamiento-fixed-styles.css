@@ -22,10 +22,6 @@ body {
 
 }
 
-/* .section {
-    width: ;
-} */
-
 .section--title {
     color: white;
     background: #31334B;
@@ -53,5 +49,6 @@ body {
 }
 
 .section--article-box--text {
+    font-size: 1rem;
     padding: 0rem 0.5rem 1rem;
 }
